@@ -19,4 +19,4 @@ Project Highlights
 
 Here is an image of the Dashboard.
 
-![Screenshot 2023-07-31 103551](https://github.com/Malay-Thumbar/Call-center-Dashboard/assets/140499156/3b46ebbb-9d11-42e3-8d27-28deec3e16d6)
+![Screenshot 2023-07-31 103551](https://github.com/Malay-Thumbar/Call-center-Dashboard/assets/140499156/16ca62c2-a801-48b5-97ea-9530367e1089)
