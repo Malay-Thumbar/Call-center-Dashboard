@@ -16,3 +16,4 @@ Project Highlights
 1)Extracted, cleaned, and preprocessed the dataset comprising 32,942 call records from the given source.
 
 2)Developed an Excel dashboard with multiple charts, including line, doughnut, map, column, and bar charts, to visualize call trends, channel distribution, state-wise data, reasons for calling, and response time.
+![Screenshot 2023-07-31 103551](https://github.com/Malay-Thumbar/Call-center-Dashboard/assets/140499156/3b46ebbb-9d11-42e3-8d27-28deec3e16d6)
